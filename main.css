@@ -1,0 +1,22 @@
+main {
+    width: 500px;
+    border: 1px solid green;
+    margin-inline: auto;
+}
+
+
+div.entrada {
+    border: 6px solid red;
+    display: flex;
+    border-radius: 4px;
+}
+
+div.entrada input {
+    width: 100%;
+    outline: none;
+    border: 0 none;
+}
+
+div.entrada button {
+    cursor: pointer;
+}
